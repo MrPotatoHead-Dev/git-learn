@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-
+.gitignore
+hidden_file.py
 # Virtual environments
 .venv
